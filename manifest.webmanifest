@@ -1,0 +1,19 @@
+{
+  "name": "Conference Badge Lookup",
+  "short_name": "Badge Lookup",
+  "description": "Fast conference badge search with local field cache.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#05070b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
